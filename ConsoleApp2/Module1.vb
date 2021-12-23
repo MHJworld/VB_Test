@@ -37,7 +37,7 @@ Module Module1
     Public ch As String
 
     Sub Main()
-        Console.WriteLine("Input Something!")
+        Console.WriteLine("Input Something!!")
         'MsgBox("Hello World!")
         Dim input = Console.ReadLine()
         For i As Integer = 1 To input Step 2
